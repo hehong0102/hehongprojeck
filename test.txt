@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 
-why is there nothing?
-=======
 this is a test
->>>>>>> newtest
+why is there nothing?
+
+
